@@ -1,0 +1,188 @@
+RMENU CODE,CODE DESCRIPTION,CODE TYPE
+EUAC,Air Conditioning,SUB RMENU CODE
+EUAL,Alternating Current,SUB RMENU CODE
+EUBK,Brakes,SUB RMENU CODE
+EUBO,Body,SUB RMENU CODE
+EUCA,Compressed Air,SUB RMENU CODE
+EUCD,Consequential Delay (2nd Delay Same Fault),SUB RMENU CODE
+EUCH,Chopper Control,SUB RMENU CODE
+EUCO,Couplers,SUB RMENU CODE
+EUDO,Door Problems - Faulty Equipment,SUB RMENU CODE
+EUECD,ECD / Line Mechanic Related Prob.,SUB RMENU CODE
+EUHV,High Voltage,SUB RMENU CODE
+EULT,Lighting System,SUB RMENU CODE
+EULV,Low Voltage,SUB RMENU CODE
+EUME,RC&S Maintenance Error - (Human),SUB RMENU CODE
+EUNEA,No Equipment Available,SUB RMENU CODE
+EUNT,Equipment - No Trouble Found,SUB RMENU CODE
+EUO,RC&S Other,SUB RMENU CODE
+EUOE,Rail Cars & Shops Opr. Error,SUB RMENU CODE
+EUOPO,OPTO RC&S Non-Train Door Monitoring,SUB RMENU CODE
+EUPI,Propulsion System,SUB RMENU CODE
+EUSC,Speed Control Equipment  ,SUB RMENU CODE
+EUTL,Trainline System,SUB RMENU CODE
+EUTM,Traction Motors,SUB RMENU CODE
+EUTR,Trucks,SUB RMENU CODE
+EUTRD,TR Cab Doors,SUB RMENU CODE
+EUVA,Warning Alarm Systems,SUB RMENU CODE
+EUVE,Work Vehicle,SUB RMENU CODE
+EUYRD,Yard/Carhouse Related Problems,SUB RMENU CODE
+MUCL,Divisional Clerk Related,SUB RMENU CODE
+MUD,Door Problems - Passenger Related,SUB RMENU CODE
+MUDD,Door Problems - Debris Related,SUB RMENU CODE
+MUEC,Misc. Engineering & Construction Related Problems,SUB RMENU CODE
+MUESA,No Operator Immediately Available,SUB RMENU CODE
+MUFM,Force Majeure,SUB RMENU CODE
+MUGD,Miscellaneous General Delays,SUB RMENU CODE
+MUI,Injured or ill Customer (On Train) - Transported,SUB RMENU CODE
+MUIE,Injured Employee,SUB RMENU CODE
+MUIR,Injured or ill Customer (On Train) - Medical Aid Refused,SUB RMENU CODE
+MUIRS,Injured or ill Customer (In Station) - Medical Aid Refused,SUB RMENU CODE
+MUIS,Injured or ill Customer (In Station) - Transported,SUB RMENU CODE
+MULD,Labour Dispute - Subway,SUB RMENU CODE
+MUNOA,No Operator Immediately Available - Not E.S.A. Related ,SUB RMENU CODE
+MUO,Miscellaneous Other,SUB RMENU CODE
+MUODC,Overhead Door Contact,SUB RMENU CODE
+MUPAA,Passenger Assistance Alarm Activated - No Trouble Found,SUB RMENU CODE
+MUPLA,Fire/Smoke Plan A,SUB RMENU CODE
+MUPLB,Fire/Smoke Plan B,SUB RMENU CODE
+MUPLC,Fire/Smoke Plan C,SUB RMENU CODE
+MUPR1,Priority One - Train in Contact With Person,SUB RMENU CODE
+MUSAN,Unsanitary Vehicle,SUB RMENU CODE
+MUSC,Miscellaneous Speed Control,SUB RMENU CODE
+MUTD,Training Department Related Delays,SUB RMENU CODE
+MUTO,Misc. Transportation Other - Employee Non-Chargeable,SUB RMENU CODE
+MUWEA,Weather Reports / Related Delays,SUB RMENU CODE
+MUWR,Work Refusal,SUB RMENU CODE
+PUCSC,Signal Control Problem - Signals,SUB RMENU CODE
+PUCSS,Central Office Signalling System,SUB RMENU CODE
+PUMEL,Escalator/Elevator Incident,SUB RMENU CODE
+PUMO,Station Other,SUB RMENU CODE
+PUMST,Station Stairway Incident ,SUB RMENU CODE
+PUOPO,OPTO (COMMS) Train Door Monitoring,SUB RMENU CODE
+PUSCA,SCADA Related Problems ,SUB RMENU CODE
+PUSCR,Subway Car Radio Fault ,SUB RMENU CODE
+PUSEA,EAS Failure                               ,SUB RMENU CODE
+PUSI,Signals or Related Components Failure ,SUB RMENU CODE
+PUSIS,Signals Track Weather Related,SUB RMENU CODE
+PUSNT,Signal Problem - No Trouble,SUB RMENU CODE
+PUSO,S/E/C Department Other,SUB RMENU CODE
+PUSRA,Subway Radio System Fault ,SUB RMENU CODE
+PUSSW,Track Switch Failure - Signal Related Problem,SUB RMENU CODE
+PUSTC,Signals - Track Circuit Problems,SUB RMENU CODE
+PUSTP,Traction Power or Related Components Failure,SUB RMENU CODE
+PUSTS,Signals - Train Stops,SUB RMENU CODE
+PUSWZ,Work Zone Problems - Signals,SUB RMENU CODE
+PUTCD,T & S Contractor Problems,SUB RMENU CODE
+PUTD,Track Level Debris - Controllable,SUB RMENU CODE
+PUTDN ,Debris At Track Level - Uncontrollable,SUB RMENU CODE
+PUTIJ,Insulated Joint Related Problem,SUB RMENU CODE
+PUTIS,Ice / Snow Related Problems,SUB RMENU CODE
+PUTNT,T&S Related Problem - NTF,SUB RMENU CODE
+PUTO,T&S Other,SUB RMENU CODE
+PUTOE,T & S Operator Related Problems,SUB RMENU CODE
+PUTR,Rail Related Problem,SUB RMENU CODE
+PUTS,Structure Related Problem,SUB RMENU CODE
+PUTSC,Signal Control Problem - Track,SUB RMENU CODE
+PUTSM,Track Switch Failure - Track Related Problem,SUB RMENU CODE
+PUTTC,Track Circuit Problems - Re: Defective Bolts/Bonding,SUB RMENU CODE
+PUTTP,Traction Power Rail Related,SUB RMENU CODE
+PUTWZ,Work Zone Problems - Track,SUB RMENU CODE
+SUAE,Assault / Employee Involved,SUB RMENU CODE
+SUAP,Assault / Patron Involved,SUB RMENU CODE
+SUBT,Bomb Threat,SUB RMENU CODE
+SUCOL,Collector Booth Alarm Activated,SUB RMENU CODE
+SUDP,Disorderly Patron,SUB RMENU CODE
+SUEAS,Emergency Alarm Station Activation,SUB RMENU CODE
+SUG,Graffiti / Scratchiti,SUB RMENU CODE
+SUO,Passenger Other,SUB RMENU CODE
+SUPOL,Held By Polce - Non-TTC Related,SUB RMENU CODE
+SUROB,Robbery,SUB RMENU CODE
+SUSA,Sexual Assault,SUB RMENU CODE
+SUSP,Suspicious Package,SUB RMENU CODE
+SUUT,Unauthorized at Track Level,SUB RMENU CODE
+TUCC,Transit Control Related Problems,SUB RMENU CODE
+TUDOE,Doors Open in Error,SUB RMENU CODE
+TUKEY,Two Drum Switch Keys Activated,SUB RMENU CODE
+TUML,Mainline Storage,SUB RMENU CODE
+TUMVS,Operator Violated Signal,SUB RMENU CODE
+TUNIP,Operator Not In Position,SUB RMENU CODE
+TUNOA,No Operator Immediately Available ,SUB RMENU CODE
+TUO,Transportation Department - Other,SUB RMENU CODE
+TUOPO,OPTO Operator Related,SUB RMENU CODE
+TUOS,Operator Overshot Platform,SUB RMENU CODE
+TUS,Crew Unable to Maintain Schedule,SUB RMENU CODE
+TUSC,Operator Overspeeding,SUB RMENU CODE
+TUSET,Train Controls Improperly Shut Down,SUB RMENU CODE
+TUST,Storm Trains,SUB RMENU CODE
+TUSUP,Supervisory Error,SUB RMENU CODE
+ERAC,Air Conditioning,SRT RMENU CODE
+ERBO,Body,SRT RMENU CODE
+ERCD,Consequential Delay (2nd Delay Same Fault),SRT RMENU CODE
+ERCO,Couplers,SRT RMENU CODE
+ERDB,Disc Brakes,SRT RMENU CODE
+ERDO,Door Problems - Faulty Equipment,SRT RMENU CODE
+ERHV,High Voltage,SRT RMENU CODE
+ERLT,Lighting System,SRT RMENU CODE
+ERLV,Low Voltage,SRT RMENU CODE
+ERME,RC&S Maintenance Error - (Human),SRT RMENU CODE
+ERNEA,No Equipment Available,SRT RMENU CODE
+ERNT,Equipment - No Trouble Found,SRT RMENU CODE
+ERO,RC&S Other,SRT RMENU CODE
+ERPR,Propulsion System,SRT RMENU CODE
+ERRA,Radio,SRT RMENU CODE
+ERTB,Track Brakes,SRT RMENU CODE
+ERTC,Train Control - VOBC,SRT RMENU CODE
+ERTL,Trainline System,SRT RMENU CODE
+ERTR,Trucks,SRT RMENU CODE
+ERVE,Vehicle,SRT RMENU CODE
+ERWA,Warning Alarm Systems,SRT RMENU CODE
+ERWS,Wind Shield,SRT RMENU CODE
+MRCL,Divisional Clerk Related,SRT RMENU CODE
+MRD,Door Problems - Passenger Related,SRT RMENU CODE
+MRDD,Door Problems - Debris Related,SRT RMENU CODE
+MREC,Misc. Engineering & Construction Related Problems,SRT RMENU CODE
+MRESA,No Operator Immediately Available,SRT RMENU CODE
+MRIE,Injured Employee,SRT RMENU CODE
+MRLD,Labour Dispute - Subway,SRT RMENU CODE
+MRNOA,No Operator Immediately Available - Not E.S.A. Related ,SRT RMENU CODE
+MRO,Miscellaneous Other,SRT RMENU CODE
+MRPAA,Passenger Assistance Alarm Activated - No Trouble Found,SRT RMENU CODE
+MRPLA,Fire/Smoke Plan A,SRT RMENU CODE
+MRPLB,Fire/Smoke Plan B,SRT RMENU CODE
+MRPLC,Fire/Smoke Plan C,SRT RMENU CODE
+MRPR1,Priority One - Train in Contact With Person,SRT RMENU CODE
+MRSAN,Unsanitary Vehicle,SRT RMENU CODE
+MRSTM,Scheduled Track Maintenance,SRT RMENU CODE
+MRTO,Timeout,SRT RMENU CODE
+MRUI,Injured or ill Customer (On Train) - Transported,SRT RMENU CODE
+MRUIR,Injured or ill Customer (On Train) - Medical Aid Refused,SRT RMENU CODE
+MRWEA,Weather Reports / Related Delays,SRT RMENU CODE
+PREL,Escalator/Elevator Incident,SRT RMENU CODE
+PRO,Other,SRT RMENU CODE
+PRS,VCC/RCIU/CCR,SRT RMENU CODE
+PRSA,Axle Counter Related,SRT RMENU CODE
+PRSL,Loop Related Failures,SRT RMENU CODE
+PRSO,Signals Other,SRT RMENU CODE
+PRSP,Signals Power Supply Related,SRT RMENU CODE
+PRST,Station Stairway Incident ,SRT RMENU CODE
+PRSW,Switch Related,SRT RMENU CODE
+PRTST,Signals - Train Stops,SRT RMENU CODE
+PRW,Rail Defect/Fastenings/Power Rail,SRT RMENU CODE
+SRAE,Assault / Employee Involved,SRT RMENU CODE
+SRAP,Assault / Patron Involved,SRT RMENU CODE
+SRBT,Bomb Threat,SRT RMENU CODE
+SRCOL,Collector Booth Alarm Activated,SRT RMENU CODE
+SRDP,Disorderly Patron,SRT RMENU CODE
+SREAS,Emergency Alarm Station Activation,SRT RMENU CODE
+SRO,Passenger Other,SRT RMENU CODE
+SRSA,Sexual Assault,SRT RMENU CODE
+SRSP,Suspicious Package,SRT RMENU CODE
+SRUT,Unauthorized at Track Level,SRT RMENU CODE
+TRDOE,Doors Open in Error,SRT RMENU CODE
+TRNIP,Operator Not In Position,SRT RMENU CODE
+TRNOA,No Operator Immediately Available ,SRT RMENU CODE
+TRO,Transportation Department - Other,SRT RMENU CODE
+TRSET,Train Controls Improperly Shut Down,SRT RMENU CODE
+TRST,Storm Trains,SRT RMENU CODE
+TRTC,Transit Control Related Problems,SRT RMENU CODE
